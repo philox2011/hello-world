@@ -1,2 +1,5 @@
 # hello-world
-to learn the guide
+
+Hi, there
+
+It'S the fist time I use the github. It seems fun and useful.
